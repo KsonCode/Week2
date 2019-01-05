@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        barColorWhenSelected="#5D4037"
+        icon="@mipmap/ic_launcher"
+        id="@+id/tab_home"
+        title="首页" />
+    <tab
+        barColorWhenSelected="#5D4037"
+        icon="@mipmap/ic_launcher"
+        id="@+id/tab_cls"
+        title="分类" />
+
+</tabs>
